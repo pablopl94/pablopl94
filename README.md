@@ -1,10 +1,10 @@
 <h1  style="color: #DAA520;">Hi, I'm Pablo 👋</h1>
 
-<img align="right" width=300px alt="Developer" src="https://i.ibb.co/j9NdWLMt/Chat-GPT-Image-8-jul-2025-00-26-49-removebg-preview.png" />
+<img align="right" margin-top=100px width=350px alt="Developer" src="https://i.ibb.co/j9NdWLMt/Chat-GPT-Image-8-jul-2025-00-26-49-removebg-preview.png" />
 
 ![](https://komarev.com/ghpvc/?username=pablopl94)
 
-## About me
+### About me
 
 💻 FullStack Junior Developer... or so they say 😅  
 🔥 Trying to be competent with **Java + Spring + Angular + MySQL** without breaking anything in the process.  
@@ -12,7 +12,7 @@
 🏋️‍♂️ When I'm not coding, I'm probably lifting weights at the gym 💪  
 🗣️ If you want to talk about code, how to get in shape, or why my code sometimes works by magic, don't hesitate to reach out!  
 
-## ☕ Connect with me
+### ☕ Connect with me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-222831?style=for-the-badge&logo=vercel&logoColor=white)](https://paulopezdev.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablopl94/)
@@ -20,7 +20,7 @@
 
 ---
 
-## 🤔 &nbsp;What I think I know
+### 🤔 What I think I know
 
 <details>
 <summary><b>🚀 Backend Development</b></summary>
@@ -75,7 +75,7 @@
 
 
 <div align="center">
-  <h2>Thanks for visiting my profile! 👋</h2>
+  <h3>Thanks for visiting my profile! 👋</h3>
   <img align="center" width=300px alt="Developer" src="https://i.ibb.co/MDDxZKY8/Chat-GPT-Image-8-jul-2025-01-33-25-removebg-preview.png" />
 
 </div>
