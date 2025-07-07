@@ -2,7 +2,6 @@
 
 <img align="right" width=300px alt="Developer" src="https://i.ibb.co/j9NdWLMt/Chat-GPT-Image-8-jul-2025-00-26-49-removebg-preview.png" />
 
----
 ![](https://komarev.com/ghpvc/?username=pablopl94)
 
 ## About me
