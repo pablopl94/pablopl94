@@ -2,6 +2,9 @@
 
 <img align="right" margin-top=100px width=350px alt="Developer" src="https://i.ibb.co/j9NdWLMt/Chat-GPT-Image-8-jul-2025-00-26-49-removebg-preview.png" />
 
+[![GitHub stars](https://img.shields.io/github/stars/themlphdstudent/awesome-github-profile-readme-templates.svg)](https://github.com/pablopl94/awesome-github-profile-readme-templates/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/pablopl94/awesome-github-profile-readme-templates/network)
+[![GitHub contributors](https://img.shields.io/github/contributors/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/pablopl94/awesome-github-profile-readme-templates/network)
 ![](https://komarev.com/ghpvc/?username=pablopl94)
 
 ### About me
