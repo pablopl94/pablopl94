@@ -1,6 +1,6 @@
 <h1  style="color: #DAA520;">Hi, I'm Pablo 👋</h1>
 
-<img align="right" margin-top=100px width=250px alt="Developer" src="https://i.ibb.co/j9NdWLMt/Chat-GPT-Image-8-jul-2025-00-26-49-removebg-preview.png" />
+<img align="right" margin-top=100px width=300px alt="Developer" src="https://i.ibb.co/j9NdWLMt/Chat-GPT-Image-8-jul-2025-00-26-49-removebg-preview.png" />
 
 [![GitHub stars](https://img.shields.io/github/stars/themlphdstudent/awesome-github-profile-readme-templates.svg)](https://github.com/pablopl94/awesome-github-profile-readme-templates/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/pablopl94/awesome-github-profile-readme-templates/network)
