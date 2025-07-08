@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/pablopl94/pablopl94/main/banner.png" width="100%" />
 </p>
 
-<h1>Hi, I'm Pablo 👋</h1>
+<h1>Welcome to my GitHub, I'm Pablo 👋</h1>
 
 <img align="right" margin-top=100px width=320px alt="Pablo Prieto FullStack" src="https://i.ibb.co/j9NdWLMt/Chat-GPT-Image-8-jul-2025-00-26-49-removebg-preview.png" />
 
@@ -11,7 +11,7 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/pablopl94/awesome-github-profile-readme-templates/network)
 ![](https://komarev.com/ghpvc/?username=pablopl94)
 
-### About me
+### 👨‍💻 About me
 
 💻 FullStack Junior Developer... or so they say 😅  
 🔥 Trying to be competent with **Java + Spring + Angular + MySQL** without breaking anything in the process.  
