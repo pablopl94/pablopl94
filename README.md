@@ -1,6 +1,8 @@
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/pablopl94/pablopl94/main/banner.png" width="100%" />
-</p>
+</div>
+
+---
 
 <h1>I'm Pablo, Welcome to my GitHub! </h1>
 
