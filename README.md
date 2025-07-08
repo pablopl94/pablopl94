@@ -1,4 +1,8 @@
-<h1  style="color: #DAA520;">Hi, I'm Pablo 👋</h1>
+<p align="center">
+  <img alt="Developer" src="https://i.ibb.co/4Z8jPDvQ/banner.png" alt="Pablo Prieto" width="100%" />
+</p>
+
+<h1>Hi, I'm Pablo 👋</h1>
 
 <img align="right" margin-top=100px width=320px alt="Developer" src="https://i.ibb.co/j9NdWLMt/Chat-GPT-Image-8-jul-2025-00-26-49-removebg-preview.png" />
 
