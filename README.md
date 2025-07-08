@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/pablopl94/pablopl94/main/banner.png" width="100%" />
 </div>
 
----
-
 <h1>I'm Pablo, Welcome to my GitHub! </h1>
 
 <img align="right" margin-top=100px width=320px alt="Pablo Prieto FullStack" src="https://i.ibb.co/j9NdWLMt/Chat-GPT-Image-8-jul-2025-00-26-49-removebg-preview.png" />
