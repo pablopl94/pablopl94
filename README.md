@@ -79,7 +79,5 @@
 
 <div align="center">
   <h3>Thanks for visiting my profile! 👋</h3>
-  <img align="center" width=200px alt="Developer" src="https://i.ibb.co/MDDxZKY8/Chat-GPT-Image-8-jul-2025-01-33-25-removebg-preview.png" />
-
 </div>
 
