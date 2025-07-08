@@ -17,7 +17,7 @@
 🔥 Trying to be competent with **Java + Spring + Angular + MySQL**.         
 🤖 In my free time I like to research automation development with AI.  
 🏋️‍♂️ When I'm not coding, I'm probably lifting weights at the gym 💪  
-🗣️ If you want to talk about code, how to get in shape, or why my code sometimes works by magic, don't hesitate to reach out!  
+🗣️ If you want to talk about code or how to get in shape, don't hesitate to reach out!  
 
 ### ☕ Connect with me
 
