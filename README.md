@@ -27,7 +27,7 @@
 
 ---
 
-### 🤔 What I think I know
+### ⚙️ My skills
 
 <details>
 <summary><b>🚀 Backend Development</b></summary>
