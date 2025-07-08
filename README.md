@@ -1,10 +1,10 @@
 <p align="center">
-  <img alt="Developer" src="https://i.ibb.co/4Z8jPDvQ/banner.png" alt="Pablo Prieto" width="100%" />
+  <img src="https://raw.githubusercontent.com/pablopl94/pablopl94/main/banner.png" width="100%" />
 </p>
 
 <h1>Hi, I'm Pablo 👋</h1>
 
-<img align="right" margin-top=100px width=320px alt="Developer" src="https://i.ibb.co/j9NdWLMt/Chat-GPT-Image-8-jul-2025-00-26-49-removebg-preview.png" />
+<img align="right" margin-top=100px width=320px alt="Pablo Prieto FullStack" src="https://i.ibb.co/j9NdWLMt/Chat-GPT-Image-8-jul-2025-00-26-49-removebg-preview.png" />
 
 [![GitHub stars](https://img.shields.io/github/stars/themlphdstudent/awesome-github-profile-readme-templates.svg)](https://github.com/pablopl94/awesome-github-profile-readme-templates/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/pablopl94/awesome-github-profile-readme-templates/network)
