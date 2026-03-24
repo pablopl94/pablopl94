@@ -10,7 +10,6 @@
 [![GitHub forks](https://img.shields.io/badge/dynamic/json?color=white&label=GitHub%20forks&query=forks&url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3Dpablopl94&style=social&logo=github)](https://github.com/pablopl94?tab=repositories)
 [![GitHub contributors](https://img.shields.io/github/contributors/pablopl94/pablopl94.svg?style=social)](https://github.com/pablopl94/pablopl94/graphs/contributors)
 ![](https://komarev.com/ghpvc/?username=pablopl94)
-
 ### 👨‍💻 About me
 
 💻 FullStack Junior Developer... or so they say 😅  
