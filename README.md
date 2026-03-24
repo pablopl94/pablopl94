@@ -8,9 +8,9 @@
 
 
 
-[![GitHub stars](https://img.shields.io/github/stars/themlphdstudent/awesome-github-profile-readme-templates.svg)](https://github.com/pablopl94?tab=repositories)
-[![GitHub forks](https://img.shields.io/github/forks/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/pablopl94/awesome-github-profile-readme-templates/network)
-[![GitHub contributors](https://img.shields.io/github/contributors/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/pablopl94/awesome-github-profile-readme-templates/network)
+[![GitHub stars](https://img.shields.io/github/stars/pablopl94.svg?style=social&label=Stars)](https://github.com/pablopl94?tab=repositories)
+[![GitHub forks](https://img.shields.io/github/forks/pablopl94/pablopl94.svg?style=social)](https://github.com/pablopl94/pablopl94/network/members)
+[![GitHub contributors](https://img.shields.io/github/contributors/pablopl94/pablopl94.svg?color=blue)](https://github.com/pablopl94/pablopl94/graphs/contributors)
 ![](https://komarev.com/ghpvc/?username=pablopl94)
 ### 👨‍💻 About me
 
