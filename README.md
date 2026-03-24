@@ -6,9 +6,9 @@
 
 <img align="right" margin-top=100px width=320px alt="Pablo Prieto FullStack" src="https://i.ibb.co/j9NdWLMt/Chat-GPT-Image-8-jul-2025-00-26-49-removebg-preview.png" />
 
-[![GitHub stars](https://img.shields.io/github/stars/pablopl94/pablopl94.svg)](https://github.com/pablopl94/pablopl94/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/pablopl94/pablopl94.svg?color=blue)](https://github.com/pablopl94/pablopl94/network)
-[![GitHub contributors](https://img.shields.io/github/contributors/pablopl94/pablopl94.svg?color=blue)](https://github.com/pablopl94/pablopl94/graphs/contributors)
+[![GitHub stars](https://img.shields.io/github/stars/pablopl94/pablopl94?style=flat)](https://github.com/pablopl94/pablopl94/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/pablopl94/pablopl94?color=blue&style=flat)](https://github.com/pablopl94/pablopl94/network/members)
+[![GitHub contributors](https://img.shields.io/github/contributors/pablopl94/pablopl94?color=blue&style=flat)](https://github.com/pablopl94/pablopl94/graphs/contributors)
 ![](https://komarev.com/ghpvc/?username=pablopl94)
 
 ### 👨‍💻 About me
