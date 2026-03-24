@@ -4,7 +4,7 @@
 
 <h1>I'm Pablo, Welcome to my GitHub! </h1>
 
-<img align="right" margin-top=50px width=150px alt="Pablo Prieto FullStack" src="https://i.ibb.co/j9NdWLMt/Chat-GPT-Image-8-jul-2025-00-26-49-removebg-preview.png" />
+<img align="right" margin-top=50px width=350px alt="Pablo Prieto FullStack" src="https://i.ibb.co/j9NdWLMt/Chat-GPT-Image-8-jul-2025-00-26-49-removebg-preview.png" />
 
 
 
