@@ -6,9 +6,10 @@
 
 <img align="right" margin-top=100px width=320px alt="Pablo Prieto FullStack" src="https://i.ibb.co/j9NdWLMt/Chat-GPT-Image-8-jul-2025-00-26-49-removebg-preview.png" />
 
-[![GitHub stars](https://img.shields.io/badge/dynamic/json?color=white&label=GitHub%20stars&query=stars&url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3Dpablopl94&style=social&logo=github)](https://github.com/pablopl94?tab=repositories)
-[![GitHub forks](https://img.shields.io/badge/dynamic/json?color=white&label=GitHub%20forks&query=forks&url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3Dpablopl94&style=social&logo=github)](https://github.com/pablopl94?tab=repositories)
-[![GitHub contributors](https://img.shields.io/github/contributors/pablopl94/pablopl94.svg?style=social)](https://github.com/pablopl94/pablopl94/graphs/contributors)
+
+[![GitHub stars](https://img.shields.io/github/stars/themlphdstudent/awesome-github-profile-readme-templates.svg)](https://github.com/pablopl94/awesome-github-profile-readme-templates/stargazers
+[![GitHub forks](https://img.shields.io/github/forks/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/pablopl94/awesome-github-profile-readme-templates/network)
+[![GitHub contributors](https://img.shields.io/github/contributors/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/pablopl94/awesome-github-profile-readme-templates/network)
 ![](https://komarev.com/ghpvc/?username=pablopl94)
 ### 👨‍💻 About me
 
